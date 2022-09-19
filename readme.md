@@ -1,3 +1,3 @@
 Jordan1
 12345678
-![alt text](.\ss.png)
+![alt text](./Lab1/ss.png)
